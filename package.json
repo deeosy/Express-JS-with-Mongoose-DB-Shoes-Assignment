@@ -1,0 +1,19 @@
+{
+  "name": "Express-Js-CRUD-Class-Assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/deeosy/Express-JS-with-Mongoose-DB-Shoes-Assignment.git",
+  "author": "Derrode Walter Cheale <144121696+deeosy@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
